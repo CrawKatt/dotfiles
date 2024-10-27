@@ -1,0 +1,5 @@
+theme = "nord-night"
+
+[editor.lsp]
+display-inlay-hints = true
+display-messages = true

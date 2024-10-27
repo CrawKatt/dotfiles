@@ -1,0 +1,21 @@
+{
+  "size": {
+    "width": 606.6666666666666,
+    "height": 664.0
+  },
+  "pos": {
+    "x": 653.3333333333334,
+    "y": 36.0
+  },
+  "maximised": false,
+  "tabs": {
+    "active_tab": 0,
+    "workspaces": [
+      {
+        "kind": "Local",
+        "path": "/home/crawkatt/.local/share/Steam/steamapps/common/Core Keeper",
+        "last_open": 0
+      }
+    ]
+  }
+}

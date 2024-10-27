@@ -1,0 +1,100 @@
+{
+  "split": {
+    "children": [
+      {
+        "EditorTab": {
+          "active": 0,
+          "is_focus": true,
+          "children": [
+            {
+              "Editor": {
+                "content": {
+                  "File": {
+                    "path": "/home/crawkatt/CLionProjects/plantita_ayudante/src/utils/mod.rs",
+                    "read_only": false
+                  }
+                },
+                "unsaved": null,
+                "offset": 2221,
+                "scroll_offset": [
+                  0.0,
+                  731.8628540039062
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "direction": "Vertical"
+  },
+  "panel": {
+    "panels": {
+      "BottomLeft": [
+        "Terminal",
+        "Search",
+        "Problem"
+      ],
+      "LeftTop": [
+        "FileExplorer",
+        "Plugin",
+        "SourceControl",
+        "Debug"
+      ]
+    },
+    "styles": {
+      "LeftBottom": {
+        "active": 0,
+        "shown": false,
+        "maximized": false
+      },
+      "RightTop": {
+        "active": 0,
+        "shown": false,
+        "maximized": false
+      },
+      "BottomLeft": {
+        "active": 0,
+        "shown": true,
+        "maximized": false
+      },
+      "BottomRight": {
+        "active": 0,
+        "shown": false,
+        "maximized": false
+      },
+      "LeftTop": {
+        "active": 0,
+        "shown": true,
+        "maximized": false
+      },
+      "RightBottom": {
+        "active": 0,
+        "shown": false,
+        "maximized": false
+      }
+    },
+    "size": {
+      "left": 250.0,
+      "left_split": 0.5,
+      "bottom": 215.2364501953125,
+      "bottom_split": 0.5,
+      "right": 250.0,
+      "right_split": 0.5
+    },
+    "sections": {
+      "Changes": true,
+      "Installed": true,
+      "Available": true,
+      "Variable": true,
+      "OpenEditor": true,
+      "Warn": true,
+      "Breakpoint": true,
+      "StackFrame": true,
+      "FileExplorer": true,
+      "Error": true,
+      "Process": true
+    }
+  },
+  "breakpoints": {}
+}

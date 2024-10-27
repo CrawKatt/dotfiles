@@ -1,0 +1,17 @@
+[MainWindow]
+2 screens: Height=996
+2 screens: Width=1870
+2 screens: XPosition=1940
+2 screens: YPosition=54
+CommandList=
+HDMI-A-0 eDP=HDMI-A-0
+HostList=
+SelectedSheets[$e]=ProcessTable.sgrd,SystemLoad2.sgrd
+SplitterSizeList=10,90
+State=AAAA/wAAAAD9AAAAAAAAB04AAAO4AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+currentSheet=0
+isMinimized=false
+
+[Notification Messages]
+endconfirmation=false

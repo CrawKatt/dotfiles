@@ -1,0 +1,100 @@
+{
+  "split": {
+    "children": [
+      {
+        "EditorTab": {
+          "active": 0,
+          "is_focus": true,
+          "children": [
+            {
+              "Editor": {
+                "content": {
+                  "File": {
+                    "path": "/home/crawkatt/.cache/JetBrains/RustRover2024.1/log/idea.log",
+                    "read_only": false
+                  }
+                },
+                "unsaved": null,
+                "offset": 3626419,
+                "scroll_offset": [
+                  0.0,
+                  493879.9878540039
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "direction": "Horizontal"
+  },
+  "panel": {
+    "panels": {
+      "LeftTop": [
+        "FileExplorer",
+        "Plugin",
+        "SourceControl",
+        "Debug"
+      ],
+      "BottomLeft": [
+        "Terminal",
+        "Search",
+        "Problem"
+      ]
+    },
+    "styles": {
+      "BottomLeft": {
+        "active": 0,
+        "shown": true,
+        "maximized": false
+      },
+      "RightBottom": {
+        "active": 0,
+        "shown": false,
+        "maximized": false
+      },
+      "LeftBottom": {
+        "active": 0,
+        "shown": false,
+        "maximized": false
+      },
+      "BottomRight": {
+        "active": 0,
+        "shown": false,
+        "maximized": false
+      },
+      "RightTop": {
+        "active": 0,
+        "shown": false,
+        "maximized": false
+      },
+      "LeftTop": {
+        "active": 0,
+        "shown": true,
+        "maximized": false
+      }
+    },
+    "size": {
+      "left": 250.0,
+      "left_split": 0.5,
+      "bottom": 300.0,
+      "bottom_split": 0.5,
+      "right": 250.0,
+      "right_split": 0.5
+    },
+    "sections": {
+      "Warn": true,
+      "Installed": true,
+      "StackFrame": true,
+      "Variable": true,
+      "OpenEditor": true,
+      "Changes": true,
+      "FileExplorer": true,
+      "Process": true,
+      "Error": true,
+      "Available": true,
+      "Breakpoint": true
+    }
+  },
+  "breakpoints": {}
+}

@@ -1,0 +1,16 @@
+{
+  "prefs": {
+    "OpenWindowsAtCustomSize": "false",
+    "WelcomeTipsFeaturesUsed": "[{\"Action\":\"WarpAI\"},{\"Hint\":\"CreateBlock\"},{\"Action\":\"AiCommandSearch\"},{\"Hint\":\"BlockSelect\"},{\"Action\":\"CommandSearch\"},{\"Hint\":\"BlockAction\"}]",
+    "Shortcuts": "true",
+    "ExperimentId": "b62b8342-02f8-4f1a-b28a-b9d663481db4",
+    "ReceivedReferralTheme": "\"Inactive\"",
+    "SystemTheme": "false",
+    "FontSize": "13.0",
+    "OverrideOpacity": "50",
+    "HasAutoOpenedWelcomeFolder": "true",
+    "AIAssistantRequestLimitInfo": "{\"limit\":100,\"num_requests_used_since_refresh\":12,\"next_refresh_time\":\"2024-02-25T11:23:51.233867Z\"}",
+    "ChangelogVersions": "{\"v0.2024.02.20.08.01.stable_01\":true,\"v0.2024.02.20.08.01.stable_02\":true}",
+    "WorkflowsBoxOpen": "true"
+  }
+}

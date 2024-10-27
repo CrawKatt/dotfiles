@@ -1,0 +1,69 @@
+---
+max_main: 1
+normal_bordar: 0
+focused_bordar: 4278190335
+workspace_tags:
+  - "1"
+  - "2"
+  - "3"
+  - "4"
+  - "5"
+  - "6"
+  - "7"
+  - "8"
+ratio: 0.6
+ratio_step: 0.1
+outer_gaps: 5
+inner_gaps: 5
+top_gaps: 0
+start_up: []
+commands:
+  - keybind: M-S-Return
+    command: alacritty
+  - keybind: M-x
+    command: firefox
+actions:
+  - keybind: M-S-x
+    action: eXit
+  - keybind: M-S-q
+    action: kiLL
+xcommands:
+  - keybind: M-A-e
+    command: emacs
+  - keybind: M-C-v
+    command: vim
+xactions:
+  - keybind: M-j
+    action: focusNext
+  - keybind: M-f
+    action: ToggleFullScreen
+  - keybind: M-k
+    action: focusPrevious
+  - keybind: M-S-j
+    action: SwapDown
+  - keybind: M-S-k
+    action: SwapUp
+  - keybind: M-S-f
+    action: floatfocused
+  - keybind: M-Tab
+    action: ToggleTag
+  - keybind: M-bracketright
+    action: FocusNextScreen
+  - keybind: M-bracketleft
+    action: FocusPreviousScreen
+  - keybind: M-grave
+    action: NextLayout
+  - keybind: M-S-grave
+    action: PreviousLayout
+  - keybind: M-S-Up
+    action: IncMain
+  - keybind: M-S-Down
+    action: DecMain
+  - keybind: M-S-Right
+    action: ExpandMain
+  - keybind: M-S-Up
+    action: ShrinkMain
+wcommands:
+  - keybind: M-S-Return
+    command: alacritty
+wactions: []

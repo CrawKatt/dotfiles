@@ -1,0 +1,16 @@
+#!/bin/bash
+SCRIPTPATH="$( cd "$(dirname "$0")" ; pwd -P )"
+
+echo "UnloadTheme" > $XDG_RUNTIME_DIR/leftwm/commands.pipe
+
+# Restart defined apps
+apps=( "polybar" "picom" )
+
+i=0
+len=${#apps[@]}
+while [ $i -lt $len ];
+do
+    kill -9 $(pgrep -d' ' -f "${apps[$i]}")
+    let i++
+done
+

@@ -1,0 +1,444 @@
+{
+  "profiles": [
+    {
+      "name": "CrawKatt",
+      "output_dir": "/home/crawkatt/.minecraft/mods",
+      "game_version": "1.20.1",
+      "mod_loader": "Forge",
+      "mods": [
+        {
+          "name": "3D Skin Layers",
+          "identifier": {
+            "ModrinthProject": "zV5r3pPn"
+          }
+        },
+        {
+          "name": "Advancement Plaques",
+          "identifier": {
+            "ModrinthProject": "9NM0dXub"
+          }
+        },
+        {
+          "name": "Alex's Mobs",
+          "identifier": {
+            "ModrinthProject": "2cMuAZAp"
+          }
+        },
+        {
+          "name": "Aquamirae (Forge)",
+          "identifier": {
+            "CurseForgeProject": 536254
+          }
+        },
+        {
+          "name": "Architectury API",
+          "identifier": {
+            "ModrinthProject": "lhGA9TYQ"
+          }
+        },
+        {
+          "name": "Artifacts",
+          "identifier": {
+            "ModrinthProject": "P0Mu4wcQ"
+          }
+        },
+        {
+          "name": "AttributeFix",
+          "identifier": {
+            "ModrinthProject": "lOOpEntO"
+          }
+        },
+        {
+          "name": "Balm (Forge Edition)",
+          "identifier": {
+            "CurseForgeProject": 531761
+          }
+        },
+        {
+          "name": "Biomes O' Plenty",
+          "identifier": {
+            "ModrinthProject": "HXF82T3G"
+          }
+        },
+        {
+          "name": "Blue Skies",
+          "identifier": {
+            "ModrinthProject": "DOSy3C4M"
+          }
+        },
+        {
+          "name": "Bookshelf",
+          "identifier": {
+            "ModrinthProject": "uy4Cnpcm"
+          }
+        },
+        {
+          "name": "Caelus API (Forge/NeoForge)",
+          "identifier": {
+            "CurseForgeProject": 308989
+          }
+        },
+        {
+          "name": "Carry On",
+          "identifier": {
+            "ModrinthProject": "joEfVgkn"
+          }
+        },
+        {
+          "name": "Citadel",
+          "identifier": {
+            "ModrinthProject": "jJfV67b1"
+          }
+        },
+        {
+          "name": "Cloth Config API",
+          "identifier": {
+            "ModrinthProject": "9s6osm5g"
+          }
+        },
+        {
+          "name": "Clumps",
+          "identifier": {
+            "CurseForgeProject": 256717
+          }
+        },
+        {
+          "name": "Collective",
+          "identifier": {
+            "ModrinthProject": "e0M1UDsY"
+          }
+        },
+        {
+          "name": "Corail Tombstone",
+          "identifier": {
+            "CurseForgeProject": 243707
+          }
+        },
+        {
+          "name": "Create",
+          "identifier": {
+            "ModrinthProject": "LNytGWDc"
+          }
+        },
+        {
+          "name": "Create: Steam 'n' Rails",
+          "identifier": {
+            "ModrinthProject": "ZzjhlDgM"
+          }
+        },
+        {
+          "name": "Cristel Lib",
+          "identifier": {
+            "ModrinthProject": "cl223EMc"
+          }
+        },
+        {
+          "name": "Cupboard",
+          "identifier": {
+            "CurseForgeProject": 326652
+          }
+        },
+        {
+          "name": "Curios API",
+          "identifier": {
+            "ModrinthProject": "vvuO3ImH"
+          }
+        },
+        {
+          "name": "Easy Hammers",
+          "identifier": {
+            "CurseForgeProject": 484665
+          }
+        },
+        {
+          "name": "Elytra Slot",
+          "identifier": {
+            "ModrinthProject": "mSQF1NpT"
+          }
+        },
+        {
+          "name": "Enchantment Descriptions",
+          "identifier": {
+            "ModrinthProject": "UVtY3ZAC"
+          }
+        },
+        {
+          "name": "Explorify",
+          "identifier": {
+            "ModrinthProject": "HSfsxuTo"
+          }
+        },
+        {
+          "name": "FallingTree",
+          "identifier": {
+            "CurseForgeProject": 349559
+          }
+        },
+        {
+          "name": "Farmer's Delight",
+          "identifier": {
+            "ModrinthProject": "R2OftAxM"
+          }
+        },
+        {
+          "name": "Framework",
+          "identifier": {
+            "CurseForgeProject": 549225
+          }
+        },
+        {
+          "name": "GeckoLib",
+          "identifier": {
+            "CurseForgeProject": 388172
+          }
+        },
+        {
+          "name": "Goblin Traders",
+          "identifier": {
+            "CurseForgeProject": 363703
+          }
+        },
+        {
+          "name": "Iceberg",
+          "identifier": {
+            "ModrinthProject": "5faXoLqX"
+          }
+        },
+        {
+          "name": "Item Production Lib",
+          "identifier": {
+            "CurseForgeProject": 950401
+          }
+        },
+        {
+          "name": "Jade 🔍",
+          "identifier": {
+            "ModrinthProject": "nvQzSEkH"
+          }
+        },
+        {
+          "name": "JourneyMap",
+          "identifier": {
+            "CurseForgeProject": 32274
+          }
+        },
+        {
+          "name": "Key Lib",
+          "identifier": {
+            "CurseForgeProject": 849557
+          }
+        },
+        {
+          "name": "L_Ender's Cataclysm",
+          "identifier": {
+            "ModrinthProject": "46KJle7n"
+          }
+        },
+        {
+          "name": "Lionfish-API",
+          "identifier": {
+            "ModrinthProject": "FoVacERa"
+          }
+        },
+        {
+          "name": "Loot Integrations[Forge/Fabric]",
+          "identifier": {
+            "CurseForgeProject": 580689
+          }
+        },
+        {
+          "name": "Loot Journal",
+          "identifier": {
+            "CurseForgeProject": 700723
+          }
+        },
+        {
+          "name": "Macaw's Windows",
+          "identifier": {
+            "ModrinthProject": "C7I0BCni"
+          }
+        },
+        {
+          "name": "Mouse Tweaks",
+          "identifier": {
+            "ModrinthProject": "aC3cM3Vq"
+          }
+        },
+        {
+          "name": "NetherPortalFix",
+          "identifier": {
+            "CurseForgeProject": 241160
+          }
+        },
+        {
+          "name": "Obscure API (Forge)",
+          "identifier": {
+            "CurseForgeProject": 638417
+          }
+        },
+        {
+          "name": "OpenBlocks Elevator",
+          "identifier": {
+            "CurseForgeProject": 250832
+          }
+        },
+        {
+          "name": "Passive Skill Tree",
+          "identifier": {
+            "CurseForgeProject": 850298
+          }
+        },
+        {
+          "name": "Passive Skill Tree Additions",
+          "identifier": {
+            "CurseForgeProject": 977754
+          }
+        },
+        {
+          "name": "SecurityCraft",
+          "identifier": {
+            "ModrinthProject": "v8jzRtAt"
+          }
+        },
+        {
+          "name": "Sophisticated Backpacks",
+          "identifier": {
+            "CurseForgeProject": 422301
+          }
+        },
+        {
+          "name": "Sophisticated Core",
+          "identifier": {
+            "CurseForgeProject": 618298
+          }
+        },
+        {
+          "name": "Sound Physics Remastered",
+          "identifier": {
+            "CurseForgeProject": 535489
+          }
+        },
+        {
+          "name": "Structure Gel API",
+          "identifier": {
+            "ModrinthProject": "T8TGycIQ"
+          }
+        },
+        {
+          "name": "TerraBlender (Forge)",
+          "identifier": {
+            "CurseForgeProject": 563928
+          }
+        },
+        {
+          "name": "Tool Belt",
+          "identifier": {
+            "CurseForgeProject": 260262
+          }
+        },
+        {
+          "name": "TorchMaster",
+          "identifier": {
+            "ModrinthProject": "Tl8ESrhX"
+          }
+        },
+        {
+          "name": "Towns and Towers",
+          "identifier": {
+            "ModrinthProject": "DjLobEOy"
+          }
+        },
+        {
+          "name": "TrashSlot",
+          "identifier": {
+            "CurseForgeProject": 235577
+          }
+        },
+        {
+          "name": "Villager Names",
+          "identifier": {
+            "ModrinthProject": "gqRXDo8B"
+          }
+        },
+        {
+          "name": "Waystones",
+          "identifier": {
+            "CurseForgeProject": 245755
+          }
+        },
+        {
+          "name": "Yung Structures Addon for Loot Integrations",
+          "identifier": {
+            "CurseForgeProject": 1012211
+          }
+        },
+        {
+          "name": "YUNG's API",
+          "identifier": {
+            "ModrinthProject": "Ua7DFN59"
+          }
+        },
+        {
+          "name": "YUNG's Better Desert Temples",
+          "identifier": {
+            "ModrinthProject": "XNlO7sBv"
+          }
+        },
+        {
+          "name": "YUNG's Better Dungeons",
+          "identifier": {
+            "ModrinthProject": "o1C1Dkj5"
+          }
+        },
+        {
+          "name": "YUNG's Better End Island",
+          "identifier": {
+            "ModrinthProject": "2BwBOmBQ"
+          }
+        },
+        {
+          "name": "YUNG's Better Jungle Temples",
+          "identifier": {
+            "ModrinthProject": "z9Ve58Ih"
+          }
+        },
+        {
+          "name": "YUNG's Better Mineshafts",
+          "identifier": {
+            "ModrinthProject": "HjmxVlSr"
+          }
+        },
+        {
+          "name": "YUNG's Better Nether Fortresses",
+          "identifier": {
+            "ModrinthProject": "Z2mXHnxP"
+          }
+        },
+        {
+          "name": "YUNG's Better Ocean Monuments",
+          "identifier": {
+            "ModrinthProject": "3dT9sgt4"
+          }
+        },
+        {
+          "name": "YUNG's Better Strongholds",
+          "identifier": {
+            "ModrinthProject": "kidLKymU"
+          }
+        },
+        {
+          "name": "YUNG's Bridges",
+          "identifier": {
+            "ModrinthProject": "Ht4BfYp6"
+          }
+        },
+        {
+          "name": "Yuushya Townscape",
+          "identifier": {
+            "ModrinthProject": "lfVtagkm"
+          }
+        }
+      ]
+    }
+  ]
+}

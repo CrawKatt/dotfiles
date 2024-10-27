@@ -1,0 +1,24 @@
+[filesystem "JetBrains s.r.o.|17.0.7|/dev/nvme0n1p5"]
+	timestampResolution = 4076 nanoseconds
+	minRacyThreshold = 1043 microseconds
+[filesystem "JetBrains s.r.o.|17.0.7|/dev/nvme1n1p5"]
+	timestampResolution = 7705 nanoseconds
+	minRacyThreshold = 1386 microseconds
+[filesystem "JetBrains s.r.o.|17.0.8|/dev/nvme1n1p5"]
+	timestampResolution = 3524 nanoseconds
+	minRacyThreshold = 1301 microseconds
+[filesystem "JetBrains s.r.o.|17.0.9|/dev/nvme0n1p3"]
+	timestampResolution = 4283 nanoseconds
+	minRacyThreshold = 5661 microseconds
+[filesystem "JetBrains s.r.o.|17.0.7|/dev/nvme0n1p3"]
+	timestampResolution = 35153 nanoseconds
+	minRacyThreshold = 4904 microseconds
+[filesystem "JetBrains s.r.o.|17.0.7|/dev/nvme1n1p3"]
+	timestampResolution = 3588 nanoseconds
+	minRacyThreshold = 6587 microseconds
+[filesystem "JetBrains s.r.o.|17.0.10|/dev/nvme0n1p3"]
+	timestampResolution = 4206 nanoseconds
+	minRacyThreshold = 3955 microseconds
+[filesystem "JetBrains s.r.o.|17.0.10|/dev/nvme1n1p3"]
+	timestampResolution = 4116 nanoseconds
+	minRacyThreshold = 5615 microseconds

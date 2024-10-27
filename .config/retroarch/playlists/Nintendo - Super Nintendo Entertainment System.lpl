@@ -1,0 +1,19 @@
+{
+  "version": "1.5",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "/home/crawkatt/Downloads/Super Mario World 2 - Yoshi's Island (USA).zip#Super Mario World 2 - Yoshi's Island (USA).sfc",
+      "label": "Super Mario World 2 - Yoshi's Island (USA)",
+      "core_path": "/usr/lib64/libretro/bsnes_mercury_balanced_libretro.so",
+      "core_name": "Nintendo - SNES / SFC (bsnes-mercury Balanced)",
+      "crc32": "D138F224|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    }
+  ]
+}

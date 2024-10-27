@@ -1,0 +1,3 @@
+store-dir=/home/crawkatt/.cache/paru/clone/armcord/src/.pnpm_store
+cache-dir=/home/crawkatt/.cache/paru/clone/armcord/src/.pnpm_cache
+link-workspace-packages=true
